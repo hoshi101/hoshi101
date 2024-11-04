@@ -7,7 +7,7 @@
 
 🪅 My other skills include video editing, design and typing at a speed around 76-92 wpm (kind of funny to mention this 😂).
 
-💭 Currently learning about cybersecurity (try hard) and all programming language ✌️
+💭 Currently learning about AI, Machine learning, Cybersecurity(try hard) and every programming language that I am able to learn ✌️😤
 
 
 ## 💻 Tech Stack :
