@@ -3,7 +3,7 @@
 
 👨‍💻 I need to be a Programmer, whatever software, hardware, ai, machine learning, etc.
 
-🧑‍🎓 I'm Junior student at Silpakorn University [Electronics and Computer Systems Engineering Program]
+🧑‍🎓 I'm Junior student (3 Year) at Silpakorn University [Electronics and Computer Systems Engineering Program]
 
 🪅 My other skills include video editing, design and typing at a speed around 76-92 wpm (kind of funny to mention this 😂).
 
