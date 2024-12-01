@@ -5,7 +5,7 @@
 
 🧑‍🎓 I'm Junior student (3 Year) at Silpakorn University [Electronics and Computer Systems Engineering Program]
 
-🪅 My other skills include video editing, design and typing at a speed around 76-92 wpm (kind of funny to mention this 😂).
+🪅 My other skills: Fundamentals of computer hardware, video editing, design and typing at a speed around 76-92 wpm (kind of funny to mention this 😂).
 
 💭 Currently learning about AI, Machine learning, Cybersecurity(i don't know how to start TT) and every programming language that I am able to learn ✌️
 
