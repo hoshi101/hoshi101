@@ -7,9 +7,7 @@
 
 🪅 My other skills: Fundamentals of computer hardware, video editing, design and typing at a speed around 76-92 wpm (kind of funny to mention this 😂).
 
-💭 Currently learning about AI, Machine learning, Cybersecurity(i don't know how to start TT) and every programming language that I am able to learn. ✌️
-
-📖 Currently studying and exploring AI engineering tools and techniques, including LLMs, RAG systems, LangChain, and related frameworks. 🎯
+📖 Currently learning about AI, ML, DL, and exploring AI engineering tools and techniques, including LLMs, RAG systems, LangChain, and related frameworks. 🎯
 
 
 ## 💻 Tech Stack ((To be updated)) :
