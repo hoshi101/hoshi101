@@ -1,16 +1,9 @@
+# Hi , I'm Hoshi⭐👋
 
-### Hi, I'm Hoshi! (AI + Software Engineer Part-time)
+I started learning about coding self-taught, across both frontend and backend, before moving into AI - building prodcuction LLMs/Generative AI systems, backend service, backend integrations, and automation services at a fintech company, while continuing internshiop to part-time through my final year of university. I like working across whatever actually needs rather than sticking to one lane.
 
-👨‍💻 **AI/Software Engineer** passionate about building end-to-end solutions, spanning software, hardware, AI/ML, and DevOps.
+Find me on [LinkedIn](https://linkedin.com/in/ashirathee-inya), or reach me
+at Email: [ashiratheeinya@gmail.com](mailto:ashiratheeinya@gmail.com).
 
-🧑‍🎓 I'm graduated at Silpakorn University. *[Electronics and Computer Systems Engineering Program, April 2026]*
-
-🪅 My other skills: Fundamentals of computer hardware, video editing, design and typing at a speed around 76-92 wpm (kind of funny to mention this 😂).
-
-💼 I bring over 1 year of combined professional experience as an AI/Software Engineer (Part-time & Internships).
-
-📖 **Currently focusing and working with:** AI, ML, DL, and exploring modern AI engineering tools, including LLMs, RAG systems, LangChain, and related frameworks, while applying them within scalable backend and DevOps environments. 🎯
-
-## 💻 Tech Stack *((To be updated))*   :
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashirathee-inya)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ashiratheeinya@gmail.com)
