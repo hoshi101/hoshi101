@@ -7,5 +7,4 @@ I started learning to code self-taught — classroom teaching alone never felt l
 Find me on [LinkedIn](https://linkedin.com/in/ashirathee-inya), or reach me
 at Email: [ashiratheeinya@gmail.com](mailto:ashiratheeinya@gmail.com).
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashirathee-inya)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ashiratheeinya@gmail.com)
+Want to know more about me? Check out my *[Portfolio Website]* 👈 ***Coming soon..***
